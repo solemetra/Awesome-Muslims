@@ -1,0 +1,199 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "choubari",
+      "name": "Kawtar CHOUBARI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56233818?v=4",
+      "profile": "https://linktr.ee/choubari",
+      "contributions": [
+        "content",
+        "design"
+      ]
+    },
+    {
+      "login": "ELATTARIYassine",
+      "name": "ELATTARIYassine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45572720?v=4",
+      "profile": "https://elattariyassine.github.io",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "AbdelrahmanBayoumi",
+      "name": "Abdelrahman Bayoumi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48678280?v=4",
+      "profile": "https://abdelrahmanbayoumi.github.io/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "yunusefendi52",
+      "name": "Yunus Efendi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19399214?v=4",
+      "profile": "https://github.com/yunusefendi52",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "byeweb2",
+      "name": "Salah Eddine Mebkhouti",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67347371?v=4",
+      "profile": "https://github.com/byeweb2",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "mouadziani",
+      "name": "Mouad Ziani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29683939?v=4",
+      "profile": "https://mouadziani.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "kafiln",
+      "name": "Kafil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15774583?v=4",
+      "profile": "https://kafil.now.sh",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "abdenassar01",
+      "name": "Abdenassar Amimi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78881740?v=4",
+      "profile": "https://nassardev.me/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Isko21",
+      "name": "Iskhak Suranov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76448222?v=4",
+      "profile": "https://www.linkedin.com/in/iskhaksuranov/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "adelpro",
+      "name": "adelpro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47066151?v=4",
+      "profile": "http://www.quranipfs.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "farajist",
+      "name": "Hamza Faraji",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28780579?v=4",
+      "profile": "http://farajist.me",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "fawazahmed0",
+      "name": "Fawaz Ahmed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20347013?v=4",
+      "profile": "https://github.com/fawazahmed0",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "tasnuva1",
+      "name": "Fahmida Mashura Tasnuva",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62549329?v=4",
+      "profile": "http://tasnuva1.github.io",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "A7med3bdulBaset",
+      "name": "Ahmed Abdelbaset",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82659015?v=4",
+      "profile": "https://github.com/A7med3bdulBaset",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "ayoubsousali",
+      "name": "Ayoub Sousali",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6825714?v=4",
+      "profile": "https://sousali.com",
+      "contributions": [
+        "content",
+        "doc"
+      ]
+    },
+    {
+      "login": "thefaisalurrehman",
+      "name": "Fasial ur Rehman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77713815?v=4",
+      "profile": "https://www.softaxes.com/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "jadmadi",
+      "name": "Madi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29486218?v=4",
+      "profile": "https://madi.se/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "SaladinAyyub",
+      "name": "Saladin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40650341?v=4",
+      "profile": "https://shuriken.sh",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Alwalxed",
+      "name": "Alwaleed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119763173?v=4",
+      "profile": "https://alwalxed.com",
+      "contributions": [
+        "content"
+      ]
+    },
+      {
+      "login": "EasyCanadianGamer",
+      "name": "Eyad M",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39717944?v=4",
+      "profile": "https://www.canadian-gamer.com/",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Awesome-Muslims",
+  "projectOwner": "choubari",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "commitConvention": "angular",
+  "commitType": "docs"
+}
