@@ -79,6 +79,7 @@
 - [Salatak](https://github.com/mohamedelhefni/Salatak): A web application that generates ICS files with accurate prayer times for your location, supporting multiple calculation methods and calendar subscription.
 - [elmtimes](https://github.com/umarsheikh13/elmtimes): A single-page prayer times web app built with Preact, showing prayer schedules, date, and mosque YouTube videos, configurable for any mosque.
 
+- [Quran-Web-Application](https://github.com/0MeMo07/Quran-Web-Application): A high-performance digital Quran reader with a realistic 3D Mushaf layout, multiple translations, and audio recitations.
 ## Mobile Apps
 
 ### Java
