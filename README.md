@@ -161,6 +161,7 @@
 - [Athany](https://github.com/0xzer0x/athany): a lightweight python prayer times/athan 🕌 application for windows and linux that operates offline.
 - [Eeman](https://codeberg.org/SHuRiKeN/Eeman): An app that lets you track and get notified of your Salah timings, and read the beautiful Quran written in GTK 4 and Python for Linux.
 
+- [vaktisalah-gtk-rs](https://github.com/eminfedar/vaktisalah-gtk-rs): A Rust & GTK4 desktop application that displays prayer times using data from Türkiye's Presidency of Religious Affairs.
 ## APIs & Data
 
 * [Qafiyah](https://github.com/alwalxed/qafiyah): An open-source Arabic poetry DB and API with 944K+ verses by 932 poets from 10 eras. Built with Nextjs, Hono, and Supabase.
