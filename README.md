@@ -243,6 +243,8 @@
 - [ansari-skill](https://github.com/ansari-project/ansari-skill): An agent skill that answers questions about Islamic theology, history, ethics, and practice using authentic sources (Quran, Hadith, classical scholars).
 
 - [Persian-Calendar-for-Gnome-Shell](https://github.com/omid/Persian-Calendar-for-Gnome-Shell): A GNOME Shell extension displaying Persian, Gregorian, and Hijri calendars in the top bar, with event and holiday support.
+- [obsidian-persian-calendar](https://github.com/karfekr/obsidian-persian-calendar): An Obsidian plugin that adds the Solar Hijri calendar alongside Gregorian and Lunar Hijri calendars for Iranian users.
+
 ## Others
 
 - [Ayah Detection](https://github.com/quran/ayah-detection): python scripts to detect ayah markers from quran images .
