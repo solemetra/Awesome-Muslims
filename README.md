@@ -187,6 +187,8 @@
 - [mawaqit-api](https://github.com/mrsofiane/mawaqit-api): REST API for prayer times from over 8000 mosques worldwide, using mawaqit.net as data source.
 
 - [namaz-vakti-api](https://github.com/canbax/namaz-vakti-api): Calculates highly accurate Islamic prayer times based on location, with a REST API and mobile app support.
+- [ezanvakti-imsakiyem-api](https://github.com/karademirmustafa/ezanvakti-imsakiyem-api): Free API providing worldwide prayer times from the Turkish Directorate of Religious Affairs, supporting daily, weekly, monthly, and yearly schedules.
+
 ## Libraries & Plugins
 
 ### Java
