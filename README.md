@@ -1,11 +1,13 @@
 <div align="center">
-  <img width="100%" src="media/Awesome%20Muslim%20Things.png" alt="Awesome Muslims" />
-  <p>
-   A List of Awesome Muslim Things - Open Source
-  </p>
-  
+  <img width="100%" src="media/Awesome%20Muslim%20Things.png" alt="Awesome Muslim Things" style="border-radius: 8px;" />
+  <br><br>
+  <h1>Awesome Muslim Things</h1>
+  <p><b>A curated list of awesome open-source Islamic projects, libraries, mobile/desktop apps, databases, and resources.</b></p>
+  <a href="https://awesome.re">
+    <img src="https://awesome.re/badge.svg" alt="Awesome" />
+  </a>
 </div>
-<br />
+<hr />
 
 # Table of Content
 
