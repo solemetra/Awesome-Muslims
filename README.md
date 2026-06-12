@@ -235,6 +235,7 @@
 
 - [Adhan CSharp](https://github.com/davidpet86/Adhan-csharp): High precision Islamic prayer time library for CSharp.
 
+- [PrayerCli](https://github.com/Mo7ammedd/PrayerCli): A cross-platform C# console app for computing Islamic prayer times, Qibla direction, and Hijri dates with IP geolocation and multiple calculation methods.
 ### Python
 
 - [Adhan Python](https://github.com/alphahm/adhanpy): High precision Islamic prayer time library for Python.
