@@ -176,6 +176,7 @@
 - [multilingual-quran-hadith-islamic-content-database-api-hub](https://github.com/IslamHouse-API/multilingual-quran-hadith-islamic-content-database-api-hub): Official multilingual API hub providing Quran, Hadith, books, articles, fatwas, videos, and translations through IslamHouse.com, QuranEnc.com, and HadeethEnc.com.
 - [ThaqalaynAPI](https://github.com/MohammedArab1/ThaqalaynAPI): A REST and GraphQL API for accessing thousands of Shi'a hadiths from Thaqalayn.net, with weekly data updates and halal ingredient rulings.
 
+- [Basair](https://github.com/NoorBayan/Basair): An AI-based Quranic Concept Ontology Database linking Quranic concepts to trusted Islamic sources and broader Islamic literature for deeper understanding.
 ## Libraries & Plugins
 
 ### Java
