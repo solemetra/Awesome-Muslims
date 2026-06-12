@@ -185,6 +185,7 @@
 - [Basair](https://github.com/NoorBayan/Basair): An AI-based Quranic Concept Ontology Database linking Quranic concepts to trusted Islamic sources and broader Islamic literature for deeper understanding.
 - [mawaqit-api](https://github.com/mrsofiane/mawaqit-api): REST API for prayer times from over 8000 mosques worldwide, using mawaqit.net as data source.
 
+- [namaz-vakti-api](https://github.com/canbax/namaz-vakti-api): Calculates highly accurate Islamic prayer times based on location, with a REST API and mobile app support.
 ## Libraries & Plugins
 
 ### Java
