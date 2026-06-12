@@ -222,6 +222,7 @@
 - [Adhan Time](https://github.com/mzaien/adhan-time): Adhan time Raycast extension for MacOs, download it from [Raycast Store](https://www.raycast.com/mzaien/adhan-time).
 - [Muslim Companion](https://github.com/CosmicCoder13/muslim-companion): A comprehensive Chrome extension for Muslims featuring prayer times, Qibla direction, Islamic quotes, and more in a sleek, modern interface. Download it from [Chrome Web Store](https://chromewebstore.google.com/detail/muslim-companion/pmlpkomimnkpjkkamingmlgifjiaefnh)
 
+- [hadith-checker-extension](https://github.com/AhmedElTabarani/hadith-checker-extension): A browser extension that checks the authenticity of Hadith by searching Dorar.net and Sunnah.com.
 ## Others
 
 - [Ayah Detection](https://github.com/quran/ayah-detection): python scripts to detect ayah markers from quran images .
