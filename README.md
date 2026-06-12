@@ -97,6 +97,7 @@
 - [QuranApp](https://github.com/AlfaazPlus/QuranApp): An ad-free and privacy-focused Android app for reading and exploring the Holy Qur’an.
 - [khushu](https://github.com/greykaizen/khushu): A private, ad-free Android app for Salah times, Tasbeeh, Rakat counter, Quran, and Hadith.
 
+- [HadithSearcher](https://github.com/MAymanKH/HadithSearcher): An open-source Android app for searching and verifying thousands of Hadiths with advanced filtering, explanations, and offline favorites.
 ### Flutter
 
 - [Mi'raj](https://github.com/Isko21/Mi-raj): An app that helps all Muslims around the world perform daily worship, Al-Quran, Qibla direction, Prayer times.
