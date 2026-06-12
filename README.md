@@ -157,6 +157,8 @@
 - [Quran App Data](https://github.com/Mohamed-Nagdy/Quran-App-Data):A list of Quran Suras in jsonn, images, tafaseer, hadith books json.
 
 - [quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library): A comprehensive Content Management System for managing Quranic data, including verses, translations, recitations, and more.
+- [quran-api](https://github.com/gadingnst/quran-api): A simple Quran API and database providing Indonesian tafsir and audio murrotal by Sheikh Mishary Rashid Al-Afasy.
+
 ## Libraries & Plugins
 
 ### Java
