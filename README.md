@@ -3,9 +3,6 @@
   <br><br>
   <h1>Awesome Muslim Things</h1>
   <p><b>A curated list of awesome open-source Islamic projects, libraries, mobile/desktop apps, databases, and resources.</b></p>
-  <a href="https://awesome.re">
-    <img src="https://awesome.re/badge.svg" alt="Awesome" />
-  </a>
 </div>
 <hr />
 
