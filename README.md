@@ -73,6 +73,7 @@
 - [Hadith-Hub](https://github.com/GibreelAbdullah/Hadith-Hub): A multi-language collection of Hadith for reading, studying, and learning the ahadith of Prophet Muhammad ﷺ.
 - [ansari-backend](https://github.com/ansari-project/ansari-backend): An AI-powered assistant using large language models and retrieval augmented generation to help Muslims practice Islam and non-Muslims understand Islamic teachings.
 
+- [Diyanet-Offline-Namaz-Vakitleri-Hesaplama](https://github.com/zencefilefendi/Diyanet-Offline-Namaz-Vakitleri-Hesaplama): A high-precision offline astronomical prayer times calculator that harmonizes Jean Meeus algorithms with Diyanet VSOP87 corrections for Islamic prayers.
 ## Mobile Apps
 
 ### Java
