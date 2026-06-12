@@ -67,6 +67,7 @@
 
 
 
+- [baca-quran.id](https://github.com/mazipan/baca-quran.id): A web application to read the Quran in the browser with no ads or analytics, built with SvelteKit and TypeScript.
 ## Mobile Apps
 
 ### Java
