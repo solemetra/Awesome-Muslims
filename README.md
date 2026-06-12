@@ -207,6 +207,7 @@
 - [Adhan JS](https://github.com/batoulapps/adhan-js): High precision Islamic prayer time library for Javascript
 - [Hijri Date Picker](https://github.com/abublihi/hijri-date-picker): A simple and reusble react component for hijir date pickr
 
+- [moment-hijri](https://github.com/xsoh/moment-hijri): A Hijri (Islamic lunar) calendar plugin for moment.js based on Umm al-Qura calculations.
 ### Typescript
 
 - [Open-Mushaf](https://github.com/adelpro/open-mushaf): An open-source Quran Mushaf implementation built with TypeScript, using Next.js, PWA, and TailwindCSS for optimal performance, offline access, and responsive design.
