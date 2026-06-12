@@ -139,6 +139,7 @@
 - [Salawat](https://github.com/DBChoco/Salawat): A prayer times and Adhan application for Windows, macOS and GNU/Linux written in Java.
 - [Prayer Times](https://github.com/HouariZegai/PrayerTimes): Desktop application 💻 for calculating Muslim prayer times 🕌 and setting an alarm (Adhan) ⏰ for the prayer times.
 
+- [prayer-times](https://github.com/HouariZegai/prayer-times): A Java desktop app for calculating Muslim prayer times and setting Adhan alarms, with support for all Algerian cities.
 ### Javascript
 
 - [Muezzin](https://github.com/DBChoco/Muezzin): A prayer times and Adhan application for Windows, macOS and GNU/Linux.
