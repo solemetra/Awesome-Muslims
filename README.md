@@ -41,8 +41,6 @@
   - [Files](#files)
   - [Graphic Design Resources](#graphic-design-resources)
   - [Database](#database) 
-- [Credits](#credits)
-  - [Contributors ✨](#contributors-)
 
 # Open Source Projects
 
