@@ -70,6 +70,7 @@
 - [baca-quran.id](https://github.com/mazipan/baca-quran.id): A web application to read the Quran in the browser with no ads or analytics, built with SvelteKit and TypeScript.
 - [ask-hadith](https://github.com/Ananto30/ask-hadith): A Hadith search engine powered by Atlas Search, allowing full-text search across Hadith collections and by book name/number.
 
+- [Hadith-Hub](https://github.com/GibreelAbdullah/Hadith-Hub): A multi-language collection of Hadith for reading, studying, and learning the ahadith of Prophet Muhammad ﷺ.
 ## Mobile Apps
 
 ### Java
