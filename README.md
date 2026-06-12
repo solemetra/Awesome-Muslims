@@ -109,6 +109,7 @@
 - [the-holy-quran-app](https://github.com/mhmzdev/the-holy-quran-app): Holy Qur'an application developed with Flutter, featuring offline mode and fetching data via API.
 - [Sirat-E-Mustaqeem](https://github.com/muhammadtalhasultan/Sirat-E-Mustaqeem): A comprehensive Flutter Islamic app featuring the complete Quran, prayer times API, Hadith, Qibla direction, and Azkar.
 
+- [islamic](https://github.com/mo7amedaliEbaid/islamic): A comprehensive Flutter Islamic app featuring the complete Quran, prayer time API, Hadith, and Azkar with multiple themes and localization.
 ### Swift
 
 - [Quran Ios](https://github.com/quran/quran-ios): A quran reading application for iOS written in Swift.
