@@ -92,6 +92,7 @@
 - [Ayatu Rabbi - Quran](https://github.com/3llomi/AyatuRabbi_Quran): The Easiest app to Read Holy Quran
 - [Al Quran](https://github.com/thefaisalurrehman/Al-Quran): Al Quran is a 100% Free and Open Source App without any Ads. This is a simple (Text based) Quran app for Android.
 
+- [QuranApp](https://github.com/AlfaazPlus/QuranApp): An ad-free and privacy-focused Android app for reading and exploring the Holy Qur’an.
 ### Flutter
 
 - [Mi'raj](https://github.com/Isko21/Mi-raj): An app that helps all Muslims around the world perform daily worship, Al-Quran, Qibla direction, Prayer times.
