@@ -201,6 +201,7 @@
 
 - [Open-Mushaf](https://github.com/adelpro/open-mushaf): An open-source Quran Mushaf implementation built with TypeScript, using Next.js, PWA, and TailwindCSS for optimal performance, offline access, and responsive design.
 
+- [islam.js](https://github.com/dev-ahmadbilal/islam.js): A comprehensive TypeScript library for Islamic applications, offering Quranic text with multiple dialects, translations, Tafseers, Hadith collections, Dua & Azkar, prayer timings, and Hijri calendar support.
 ### C#
 
 - [Adhan CSharp](https://github.com/davidpet86/Adhan-csharp): High precision Islamic prayer time library for CSharp.
