@@ -172,6 +172,8 @@
 - [dorar-hadith-api](https://github.com/AhmedElTabarani/dorar-hadith-api): A middleware API for Dorar.net Hadith encyclopedia, providing JSON responses and avoiding CORS issues.
 
 - [multilingual-quran-hadith-islamic-content-database-api-hub](https://github.com/IslamHouse-API/multilingual-quran-hadith-islamic-content-database-api-hub): Official multilingual API hub providing Quran, Hadith, books, articles, fatwas, videos, and translations through IslamHouse.com, QuranEnc.com, and HadeethEnc.com.
+- [ThaqalaynAPI](https://github.com/MohammedArab1/ThaqalaynAPI): A REST and GraphQL API for accessing thousands of Shi'a hadiths from Thaqalayn.net, with weekly data updates and halal ingredient rulings.
+
 ## Libraries & Plugins
 
 ### Java
