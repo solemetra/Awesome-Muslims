@@ -220,6 +220,7 @@
 - [pyIslam](https://github.com/abougouffa/pyIslam) : a Python library to calculate prayer times, hijri date, qiblah direction and more
 - [Python Quran ODOA](https://github.com/Keda87/python-quran-odoa): library to get random ayah within quran surah for supporting "ODOA" (One Day One Ayah) campaign.
 
+- [azan-mcp](https://github.com/ahmedeltaher/azan-mcp): A lightweight MCP library to calculate prayer times and trigger Azan, with support for AI assistants and multiple calculation methods.
 ### Dart & Flutter
 
 - [Flutter Qiblah](https://github.com/medyas/flutter_qiblah) : a plugin that allows you to display Qiblah direction in you app with support for both Android and iOS.
