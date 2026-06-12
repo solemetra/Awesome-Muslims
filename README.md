@@ -156,6 +156,7 @@
 - [Hadith API](https://github.com/fawazahmed0/hadith-api): Free Hadith API Service with Multiple Languages and Multiple Grades
 - [Quran App Data](https://github.com/Mohamed-Nagdy/Quran-App-Data):A list of Quran Suras in jsonn, images, tafaseer, hadith books json.
 
+- [quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library): A comprehensive Content Management System for managing Quranic data, including verses, translations, recitations, and more.
 ## Libraries & Plugins
 
 ### Java
