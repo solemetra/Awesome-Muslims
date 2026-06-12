@@ -120,6 +120,8 @@
 - [Sirat-E-Mustaqeem](https://github.com/muhammadtalhasultan/Sirat-E-Mustaqeem): A comprehensive Flutter Islamic app featuring the complete Quran, prayer times API, Hadith, Qibla direction, and Azkar.
 
 - [islamic](https://github.com/mo7amedaliEbaid/islamic): A comprehensive Flutter Islamic app featuring the complete Quran, prayer time API, Hadith, and Azkar with multiple themes and localization.
+- [sakin](https://github.com/Xoner1/sakin): A privacy-focused, ad-free Flutter app for accurate Islamic prayer times, Qibla direction, and offline functionality.
+
 ### Swift
 
 - [Quran Ios](https://github.com/quran/quran-ios): A quran reading application for iOS written in Swift.
