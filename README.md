@@ -163,6 +163,7 @@
 - [quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library): A comprehensive Content Management System for managing Quranic data, including verses, translations, recitations, and more.
 - [quran-api](https://github.com/gadingnst/quran-api): A simple Quran API and database providing Indonesian tafsir and audio murrotal by Sheikh Mishary Rashid Al-Afasy.
 
+- [tafsir_api](https://github.com/spa5k/tafsir_api): A free REST API providing access to 122 Quran Tafsirs in multiple languages with no rate limits.
 ## Libraries & Plugins
 
 ### Java
