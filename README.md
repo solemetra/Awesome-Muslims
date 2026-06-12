@@ -166,6 +166,7 @@
 - [tafsir_api](https://github.com/spa5k/tafsir_api): A free REST API providing access to 122 Quran Tafsirs in multiple languages with no rate limits.
 - [dorar-hadith-api](https://github.com/AhmedElTabarani/dorar-hadith-api): A middleware API for Dorar.net Hadith encyclopedia, providing JSON responses and avoiding CORS issues.
 
+- [multilingual-quran-hadith-islamic-content-database-api-hub](https://github.com/IslamHouse-API/multilingual-quran-hadith-islamic-content-database-api-hub): Official multilingual API hub providing Quran, Hadith, books, articles, fatwas, videos, and translations through IslamHouse.com, QuranEnc.com, and HadeethEnc.com.
 ## Libraries & Plugins
 
 ### Java
