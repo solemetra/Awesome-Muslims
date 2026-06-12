@@ -76,6 +76,7 @@
 - [Diyanet-Offline-Namaz-Vakitleri-Hesaplama](https://github.com/zencefilefendi/Diyanet-Offline-Namaz-Vakitleri-Hesaplama): A high-precision offline astronomical prayer times calculator that harmonizes Jean Meeus algorithms with Diyanet VSOP87 corrections for Islamic prayers.
 - [claude-code-statusline](https://github.com/rz1989s/claude-code-statusline): A highly customizable terminal statusline for Claude Code featuring prayer times, real-time cost tracking, MCP monitoring, and beautiful themes.
 
+- [Salatak](https://github.com/mohamedelhefni/Salatak): A web application that generates ICS files with accurate prayer times for your location, supporting multiple calculation methods and calendar subscription.
 ## Mobile Apps
 
 ### Java
