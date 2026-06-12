@@ -183,6 +183,8 @@
 - [ThaqalaynAPI](https://github.com/MohammedArab1/ThaqalaynAPI): A REST and GraphQL API for accessing thousands of Shi'a hadiths from Thaqalayn.net, with weekly data updates and halal ingredient rulings.
 
 - [Basair](https://github.com/NoorBayan/Basair): An AI-based Quranic Concept Ontology Database linking Quranic concepts to trusted Islamic sources and broader Islamic literature for deeper understanding.
+- [mawaqit-api](https://github.com/mrsofiane/mawaqit-api): REST API for prayer times from over 8000 mosques worldwide, using mawaqit.net as data source.
+
 ## Libraries & Plugins
 
 ### Java
