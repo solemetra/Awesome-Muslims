@@ -71,6 +71,8 @@
 - [ask-hadith](https://github.com/Ananto30/ask-hadith): A Hadith search engine powered by Atlas Search, allowing full-text search across Hadith collections and by book name/number.
 
 - [Hadith-Hub](https://github.com/GibreelAbdullah/Hadith-Hub): A multi-language collection of Hadith for reading, studying, and learning the ahadith of Prophet Muhammad ﷺ.
+- [ansari-backend](https://github.com/ansari-project/ansari-backend): An AI-powered assistant using large language models and retrieval augmented generation to help Muslims practice Islam and non-Muslims understand Islamic teachings.
+
 ## Mobile Apps
 
 ### Java
