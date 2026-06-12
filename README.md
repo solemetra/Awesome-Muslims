@@ -77,6 +77,8 @@
 - [claude-code-statusline](https://github.com/rz1989s/claude-code-statusline): A highly customizable terminal statusline for Claude Code featuring prayer times, real-time cost tracking, MCP monitoring, and beautiful themes.
 
 - [Salatak](https://github.com/mohamedelhefni/Salatak): A web application that generates ICS files with accurate prayer times for your location, supporting multiple calculation methods and calendar subscription.
+- [elmtimes](https://github.com/umarsheikh13/elmtimes): A single-page prayer times web app built with Preact, showing prayer schedules, date, and mosque YouTube videos, configurable for any mosque.
+
 ## Mobile Apps
 
 ### Java
