@@ -213,6 +213,8 @@
 - [PrayerWatchFace](https://github.com/3llomi/PrayerWatchFace): Prayer Times on your Watch
 
 - [adhan-kotlin](https://github.com/batoulapps/adhan-kotlin): A high precision Islamic prayer time library for Java and Kotlin Multiplatform.
+- [hj-qibla-compass](https://github.com/hassaanjamil/hj-qibla-compass): A plug-and-play Qibla compass widget for Android apps, leveraging device sensors with minimal setup, built with Kotlin and Jetpack Compose.
+
 ### Swift
 
 - [Adhan Swift](https://github.com/batoulapps/adhan-swift): High precision Islamic prayer time library for Swift
