@@ -229,6 +229,7 @@
 - [Quran Image Generator](https://github.com/quran/quran.com-images): a set of scripts that generate Quran page images based on the old madani fonts provided by the King Fahd Quran Complex in Saudi Arabia.
 - [IslamicCLI](https://github.com/IcyDrae/Islamic): a simple, cross-platform command-line application written in C# that provides daily Islamic utilities directly in the terminal.
 
+- [IslamBot](https://github.com/galacticwarrior9/IslamBot): A Discord bot providing Qur'an, hadith, prayer times, tafsir, and Islamic utilities for community servers.
 # Assets
 
 ## Fonts
