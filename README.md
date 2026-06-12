@@ -74,6 +74,8 @@
 - [ansari-backend](https://github.com/ansari-project/ansari-backend): An AI-powered assistant using large language models and retrieval augmented generation to help Muslims practice Islam and non-Muslims understand Islamic teachings.
 
 - [Diyanet-Offline-Namaz-Vakitleri-Hesaplama](https://github.com/zencefilefendi/Diyanet-Offline-Namaz-Vakitleri-Hesaplama): A high-precision offline astronomical prayer times calculator that harmonizes Jean Meeus algorithms with Diyanet VSOP87 corrections for Islamic prayers.
+- [claude-code-statusline](https://github.com/rz1989s/claude-code-statusline): A highly customizable terminal statusline for Claude Code featuring prayer times, real-time cost tracking, MCP monitoring, and beautiful themes.
+
 ## Mobile Apps
 
 ### Java
