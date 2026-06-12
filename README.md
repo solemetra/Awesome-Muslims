@@ -149,6 +149,7 @@
 - [Altaqwaa](https://github.com/Alsarmad/Altaqwaa-Islamic-Desktop-Application): An electron-based Azkar/prayer times application for Windows & Linux.
 - [Hisn-al-Muslim](https://github.com/Alsarmad/hisnmuslim_app): An app built upon the "Hisn-al-Muslim" book for azkar from the sunnah of the Prophet Muhammad (ﷺ) for windows & Linux
 
+- [simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder): A desktop Muslim companion app providing prayer times schedule, customizable reminders, adhan player, export schedule, and Qibla direction, built with Wails3.
 ### C/C++ <a name="c-cpp"></a>
 
 - [Next Prayer](https://github.com/AbdeltwabMF/next-prayer): Islamic prayers reminder for Linux status bar.
