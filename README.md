@@ -189,6 +189,7 @@
 - [namaz-vakti-api](https://github.com/canbax/namaz-vakti-api): Calculates highly accurate Islamic prayer times based on location, with a REST API and mobile app support.
 - [ezanvakti-imsakiyem-api](https://github.com/karademirmustafa/ezanvakti-imsakiyem-api): Free API providing worldwide prayer times from the Turkish Directorate of Religious Affairs, supporting daily, weekly, monthly, and yearly schedules.
 
+- [Waktu-Solat-API](https://github.com/afzafri/Waktu-Solat-API): PHP API for fetching prayer times from the JAKIM e-Solat website, supporting daily, monthly, and yearly data for Malaysia zones.
 ## Libraries & Plugins
 
 ### Java
